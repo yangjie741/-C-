@@ -5,7 +5,7 @@
 
 ## 实验过程
 ### 步骤一
-安装Nebula Graph
+安装Nebula Graph  
 ！[image](https://github.com/yangjie741/-C-/blob/master/1.png)  
 ！[image](https://github.com/yangjie741/-C-/blob/master/2.png)  
 ！[image](https://github.com/yangjie741/-C-/blob/master/4.png)  
