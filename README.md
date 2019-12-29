@@ -6,21 +6,21 @@
 ## 实验过程
 ### 步骤一
 安装Nebula Graph
-！ [image](https://github.com/yangjie741/-C-/blob/master/1.png)  
-！ [image](https://github.com/yangjie741/-C-/blob/master/2.png)  
-！ [image](https://github.com/yangjie741/-C-/blob/master/4.png)  
+！[image](https://github.com/yangjie741/-C-/blob/master/1.png)  
+！[image](https://github.com/yangjie741/-C-/blob/master/2.png)  
+！[image](https://github.com/yangjie741/-C-/blob/master/4.png)  
 中间出了一点小问题，是因为给虚拟机的硬盘不够造成的，在重新给他分配50G内存后，成功编译了。  
-！ [image](https://github.com/yangjie741/-C-/blob/master/3.png)  
+！[image](https://github.com/yangjie741/-C-/blob/master/3.png)  
   
  ### 提交pull request
 生成SSH公钥  
- ！ [image](https://github.com/yangjie741/-C-/blob/master/5.png)  
- ！ [image](https://github.com/yangjie741/-C-/blob/master/6.png)  
- ！ [image](https://github.com/yangjie741/-C-/blob/master/7.png)  
+ ！[image](https://github.com/yangjie741/-C-/blob/master/5.png)  
+ ！[image](https://github.com/yangjie741/-C-/blob/master/6.png)  
+ ！[image](https://github.com/yangjie741/-C-/blob/master/7.png)  
  更改现有分支以及创建分支  
- ！ [image](https://github.com/yangjie741/-C-/blob/master/8.png)  
+ ！[image](https://github.com/yangjie741/-C-/blob/master/8.png)  
  通过  
- ！ [image](https://github.com/yangjie741/-C-/blob/master/9.png)  
+ ！[image](https://github.com/yangjie741/-C-/blob/master/9.png)  
  
 心得感受  
 说实话，在上这门课之前还不知道有GitHub这个东西，这门课算是第一次接触到了它，从第一次的作业到最后的这个大作业都是通过git来提交的。  
